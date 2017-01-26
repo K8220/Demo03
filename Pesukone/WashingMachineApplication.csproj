@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0150B04C-8016-44E4-8C2D-68057C986529}</ProjectGuid>
+    <ProjectGuid>{E8586EAD-F1D3-491F-A18A-EB0390F184FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CarApplication</RootNamespace>
-    <AssemblyName>CarApplication</AssemblyName>
+    <RootNamespace>Pesukone</RootNamespace>
+    <AssemblyName>Pesukone</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Car.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WashingMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
