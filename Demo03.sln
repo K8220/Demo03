@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterApplication", "Heater
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelevisionApplication", "TelevisionApplication\TelevisionApplication.csproj", "{465F20BD-967E-4146-B20A-665157019750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleApplication", "Vehicle\VehicleApplication.csproj", "{4E76C7FF-EC0D-44C4-BD5A-7614E4832D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpiskelijaApplication", "Opiskelija\OpiskelijaApplication.csproj", "{88216428-EFB6-40E1-8573-C3B36C3D1951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{465F20BD-967E-4146-B20A-665157019750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465F20BD-967E-4146-B20A-665157019750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465F20BD-967E-4146-B20A-665157019750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E76C7FF-EC0D-44C4-BD5A-7614E4832D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E76C7FF-EC0D-44C4-BD5A-7614E4832D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E76C7FF-EC0D-44C4-BD5A-7614E4832D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E76C7FF-EC0D-44C4-BD5A-7614E4832D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88216428-EFB6-40E1-8573-C3B36C3D1951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88216428-EFB6-40E1-8573-C3B36C3D1951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88216428-EFB6-40E1-8573-C3B36C3D1951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88216428-EFB6-40E1-8573-C3B36C3D1951}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,7 +17,7 @@ namespace Pesukone
             washer.Temperature = 50;
             washer.Water = true;
             washer.Time = 40;
-            Console.WriteLine("Power is: " + washer.Power + "| Water is flowing: " + washer.Water + "| Temp is " + washer.Temperature + "| Time is " + washer.Time);
+            Console.WriteLine("Power is: " + washer.Power + " | Water is flowing: " + washer.Water + " | Temp is " + washer.Temperature + " | Time is " + washer.Time);
 
             washer.Washing();
             washer.Sling();
